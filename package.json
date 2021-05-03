@@ -15,7 +15,7 @@
     "@commitlint/config-conventional": "^12.0.0",
     "@semantic-release/changelog": "^3.0.6",
     "@semantic-release/git": "^7.0.18",
-    "husky": "^3.0.9",
+    "husky": "^4.0.0",
     "lint-staged": "^9.4.2",
     "prettier": "^1.19.1",
     "semantic-release": "^17.0.0"
@@ -25,10 +25,7 @@
     "trailingComma": "all"
   },
   "lint-staged": {
-    "*.{js,ts,md,json}": [
-      "prettier --write",
-      "git add"
-    ]
+    "*.{js,ts,md,json}": "prettier --write"
   },
   "commitlint": {
     "extends": [
