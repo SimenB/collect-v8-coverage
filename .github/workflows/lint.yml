@@ -9,11 +9,3 @@ jobs:
       - uses: wagoid/commitlint-github-action@v1.2.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  danger:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - name: Danger
-        uses: danger/danger-js@9.1.8
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
