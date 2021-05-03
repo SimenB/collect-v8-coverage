@@ -15,7 +15,7 @@
     "@commitlint/config-conventional": "^12.0.0",
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/git": "^9.0.0",
-    "husky": "^4.0.0",
+    "husky": "^6.0.0",
     "lint-staged": "^9.4.2",
     "prettier": "^2.2.1",
     "semantic-release": "^17.0.0"
@@ -32,12 +32,6 @@
       "@commitlint/config-conventional"
     ]
   },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -e $HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
-    }
-  },
   "release": {
     "branches": [
       "main"
@@ -50,5 +44,8 @@
       "@semantic-release/git",
       "@semantic-release/github"
     ]
+  },
+  "scripts": {
+    "prepare": "husky install"
   }
 }
