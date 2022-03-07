@@ -47,5 +47,6 @@
   },
   "scripts": {
     "prepare": "husky install"
-  }
+  },
+  "packageManager": "yarn@3.2.0"
 }
