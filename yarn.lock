@@ -800,9 +800,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:>=12":
-  version: 17.0.35
-  resolution: "@types/node@npm:17.0.35"
-  checksum: 7a24946ae7fd20267ed92466384f594e448bfb151081158d565cc635d406ecb29ea8fb85fcd2a1f71efccf26fb5bd3c6f509bde56077eb8b832b847a6664bc62
+  version: 17.0.36
+  resolution: "@types/node@npm:17.0.36"
+  checksum: 11055fde0a1e1421113849b5e32c7022911efc0be670729947bf0162970e79962d804b1eb8a9afb291380cac97cf0e684511415d586ae5fe1560322c940fe188
   languageName: node
   linkType: hard
 
@@ -1608,16 +1608,16 @@ __metadata:
   linkType: hard
 
 "cosmiconfig-typescript-loader@npm:^2.0.0":
-  version: 2.0.0
-  resolution: "cosmiconfig-typescript-loader@npm:2.0.0"
+  version: 2.0.1
+  resolution: "cosmiconfig-typescript-loader@npm:2.0.1"
   dependencies:
     cosmiconfig: ^7
-    ts-node: ^10.7.0
+    ts-node: ^10.8.0
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=7"
     typescript: ">=3"
-  checksum: a32db823436b722734957f413036126740ccfee32c466fc21067d7dd1f7160ea1a2e76bd675e8e6b7e8f9fb6f516b35103aae1ff4ec41525476ca1a0f4d75585
+  checksum: 8412f91c0c00150ffab8a4a1bf797cc5dc417b8b99c48d445daa11608722d87456aec5052b52c38d990868cdbb763708a272fd377f6f5c51e70d414bd69fafee
   languageName: node
   linkType: hard
 
@@ -1735,8 +1735,8 @@ __metadata:
   linkType: hard
 
 "del@npm:^6.0.0":
-  version: 6.1.0
-  resolution: "del@npm:6.1.0"
+  version: 6.1.1
+  resolution: "del@npm:6.1.1"
   dependencies:
     globby: ^11.0.1
     graceful-fs: ^4.2.4
@@ -1746,7 +1746,7 @@ __metadata:
     p-map: ^4.0.0
     rimraf: ^3.0.2
     slash: ^3.0.0
-  checksum: 150ecf2617e0468df931df60d309dc46c7256e53baa82f6b368a2b6d71be062781602fa9336ebd31d6a2df8e19d8f07c29c5f7512385db6b95d00187ec5ee9e1
+  checksum: 563288b73b8b19a7261c47fd21a330eeab6e2acd7c6208c49790dfd369127120dd7836cdf0c1eca216b77c94782a81507eac6b4734252d3bef2795cb366996b6
   languageName: node
   linkType: hard
 
@@ -1796,9 +1796,9 @@ __metadata:
   linkType: hard
 
 "diff@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "diff@npm:5.0.0"
-  checksum: f19fe29284b633afdb2725c2a8bb7d25761ea54d321d8e67987ac851c5294be4afeab532bd84531e02583a3fe7f4014aa314a3eda84f5590e7a9e6b371ef3b46
+  version: 5.1.0
+  resolution: "diff@npm:5.1.0"
+  checksum: c7bf0df7c9bfbe1cf8a678fd1b2137c4fb11be117a67bc18a0e03ae75105e8533dbfb1cda6b46beb3586ef5aed22143ef9d70713977d5fb1f9114e21455fba90
   languageName: node
   linkType: hard
 
@@ -3035,8 +3035,8 @@ __metadata:
   linkType: hard
 
 "lint-staged@npm:^12.0.0":
-  version: 12.4.1
-  resolution: "lint-staged@npm:12.4.1"
+  version: 12.4.2
+  resolution: "lint-staged@npm:12.4.2"
   dependencies:
     cli-truncate: ^3.1.0
     colorette: ^2.0.16
@@ -3054,7 +3054,7 @@ __metadata:
     yaml: ^1.10.2
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: b57183b537064cda6caef6679918bf271903145f7c28d09567e918b8b13094048b579f8df808ea590dbd7ea2ec332327c5e372cf3d77e85b7b0254f6541ce4c3
+  checksum: cd2c1d5e79ad6cdcfc3f56dad1c7b72fbb6fb566dfeefa83643717236adc8b92f5a9b8356d545a9377f656107aad159b59cec9fd929f605b41408b8937443a9d
   languageName: node
   linkType: hard
 
@@ -3844,9 +3844,9 @@ __metadata:
   linkType: hard
 
 "object-inspect@npm:^1.12.0":
-  version: 1.12.1
-  resolution: "object-inspect@npm:1.12.1"
-  checksum: 5c7c3b641417606db7f545760cfdbc686870c4ac03c86d05f3e1194b19de39b48030f2145ef813e6e8228268d48408eceb9bdcfeb0a502d8d9e5a057982c31a0
+  version: 1.12.2
+  resolution: "object-inspect@npm:1.12.2"
+  checksum: a534fc1b8534284ed71f25ce3a496013b7ea030f3d1b77118f6b7b1713829262be9e6243acbcb3ef8c626e2b64186112cb7f6db74e37b2789b9c789ca23048b2
   languageName: node
   linkType: hard
 
@@ -5210,7 +5210,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.7.0":
+"ts-node@npm:^10.8.0":
   version: 10.8.0
   resolution: "ts-node@npm:10.8.0"
   dependencies:
@@ -5323,22 +5323,22 @@ __metadata:
   linkType: hard
 
 "typescript@npm:^4.4.3":
-  version: 4.6.4
-  resolution: "typescript@npm:4.6.4"
+  version: 4.7.2
+  resolution: "typescript@npm:4.7.2"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: e7bfcc39cd4571a63a54e5ea21f16b8445268b9900bf55aee0e02ad981be576acc140eba24f1af5e3c1457767c96cea6d12861768fb386cf3ffb34013718631a
+  checksum: 5163585e6b56410f77d5483b698d9489bbee8902c99029eb70cf6d21525a186530ce19a00951af84eefd4a131cc51d0959f5118e25e70ab61f45ac4057dbd1ef
   languageName: node
   linkType: hard
 
 "typescript@patch:typescript@^4.4.3#~builtin<compat/typescript>":
-  version: 4.6.4
-  resolution: "typescript@patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=bda367"
+  version: 4.7.2
+  resolution: "typescript@patch:typescript@npm%3A4.7.2#~builtin<compat/typescript>::version=4.7.2&hash=bda367"
   bin:
     tsc: bin/tsc
     tsserver: bin/tsserver
-  checksum: 1cb434fbc637d347be90e3a0c6cd05e33c38f941713c8786d3031faf1842c2c148ba91d2fac01e7276b0ae3249b8633f1660e32686cc7a8c6a8fd5361dc52c66
+  checksum: 09d93fc0983d38eadd9b0427f790b49b4437f45002a87d447be3fbe53120880e87a91dd03e1d900498f99205d6e0b7c9784fe41fca11d56f4bbce371f74bb160
   languageName: node
   linkType: hard
 
