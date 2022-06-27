@@ -251,16 +251,16 @@ __metadata:
   linkType: hard
 
 "@jridgewell/resolve-uri@npm:^3.0.3":
-  version: 3.0.7
-  resolution: "@jridgewell/resolve-uri@npm:3.0.7"
-  checksum: 94f454f4cef8f0acaad85745fd3ca6cd0d62ef731cf9f952ecb89b8b2ce5e20998cd52be31311cedc5fa5b28b1708a15f3ad9df0fe1447ee4f42959b036c4b5b
+  version: 3.0.8
+  resolution: "@jridgewell/resolve-uri@npm:3.0.8"
+  checksum: 28d739f49b4a52a95843b15669dcb2daaab48f0eaef8f457b9aacd0bdebeb60468d0684f73244f613b786e9d871c25abdbe6f55991bba36814cdadc399dbb3a8
   languageName: node
   linkType: hard
 
 "@jridgewell/sourcemap-codec@npm:^1.4.10":
-  version: 1.4.13
-  resolution: "@jridgewell/sourcemap-codec@npm:1.4.13"
-  checksum: f14449096f60a5f921262322fef65ce0bbbfb778080b3b20212080bcefdeba621c43a58c27065bd536ecb4cc767b18eb9c45f15b6b98a4970139572b60603a1c
+  version: 1.4.14
+  resolution: "@jridgewell/sourcemap-codec@npm:1.4.14"
+  checksum: 61100637b6d173d3ba786a5dff019e1a74b1f394f323c1fee337ff390239f053b87266c7a948777f4b1ee68c01a8ad0ab61e5ff4abb5a012a0b091bec391ab97
   languageName: node
   linkType: hard
 
@@ -533,21 +533,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/openapi-types@npm:^12.1.0":
-  version: 12.1.0
-  resolution: "@octokit/openapi-types@npm:12.1.0"
-  checksum: 449f21166d53bb6c88f9b01b45d8ac730aa4ce1aa4d8ca86fc7c06b552c94e7f01281c9a73b2902a4cd2e5ce88d24766e0338109d5aa35a8e0bfc514c6cfd2d7
+"@octokit/openapi-types@npm:^12.4.0":
+  version: 12.4.0
+  resolution: "@octokit/openapi-types@npm:12.4.0"
+  checksum: 80c45bb8a63acd58c752b366915ed34c79948722eaf8bb018845949b3871ba3eaa7b8f629f4cb0c9e7eb564225a85116ffd6ae470c1cc17683bf707ae361c200
   languageName: node
   linkType: hard
 
 "@octokit/plugin-paginate-rest@npm:^2.16.8":
-  version: 2.18.0
-  resolution: "@octokit/plugin-paginate-rest@npm:2.18.0"
+  version: 2.19.0
+  resolution: "@octokit/plugin-paginate-rest@npm:2.19.0"
   dependencies:
-    "@octokit/types": ^6.35.0
+    "@octokit/types": ^6.36.0
   peerDependencies:
     "@octokit/core": ">=2"
-  checksum: e804e44f92a16a0cf5b32a4a05e1acb908d96c63b0e4340355a7f99876b2aee998f636b5ac11a360a4e33ab05ee1c1a384fa48c7f63a78ea5992bc2d8a55e4ce
+  checksum: f91a4374addbd6366eab46fbe91bbee9bb24975f1ff35db6b0f570bb24340cb4f2e456f4456c1e92acff68ab09418311414642e960cb2512f3db438b4b9639bf
   languageName: node
   linkType: hard
 
@@ -561,14 +561,14 @@ __metadata:
   linkType: hard
 
 "@octokit/plugin-rest-endpoint-methods@npm:^5.12.0":
-  version: 5.14.0
-  resolution: "@octokit/plugin-rest-endpoint-methods@npm:5.14.0"
+  version: 5.15.0
+  resolution: "@octokit/plugin-rest-endpoint-methods@npm:5.15.0"
   dependencies:
-    "@octokit/types": ^6.35.0
+    "@octokit/types": ^6.36.0
     deprecation: ^2.3.1
   peerDependencies:
     "@octokit/core": ">=3"
-  checksum: 3fbd33aadcd136dbf45175fe24795d2aaab39a3ae6d6832bf49883089f08fb000d1b97ddd293e4a6d694f44c62cc1abaa239551b613b7a226f6f62a074ece6dc
+  checksum: 1a2a590c9f8c69ffa6fe9b2aea1b7f4443696be7a9c858e40b13e6aab801edd8c3c913bf01ff8128b3d3227d22dd52039d15a292ce2d15abb7c5772d89d37a2e
   languageName: node
   linkType: hard
 
@@ -609,12 +609,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/types@npm:^6.0.3, @octokit/types@npm:^6.16.1, @octokit/types@npm:^6.35.0":
-  version: 6.35.0
-  resolution: "@octokit/types@npm:6.35.0"
+"@octokit/types@npm:^6.0.3, @octokit/types@npm:^6.16.1, @octokit/types@npm:^6.36.0":
+  version: 6.37.1
+  resolution: "@octokit/types@npm:6.37.1"
   dependencies:
-    "@octokit/openapi-types": ^12.1.0
-  checksum: 0f1949aece03733d1a45a9ee1c2162f8f35d58814e66ed2e00929b0fbb7cb315625203bf748ea7cb855b20b1c794c7f1add7203508a186289f489b7fb1143924
+    "@octokit/openapi-types": ^12.4.0
+  checksum: d4d2b96fd4af4b9215306a7a3d81bf06ee804e230ad0b13015cef4d72bb0702cd3727c10ae50876ac3f7d8980b3d53cff9cec9dd2d57d667a1034b45b9c8636e
   languageName: node
   linkType: hard
 
@@ -1608,16 +1608,16 @@ __metadata:
   linkType: hard
 
 "cosmiconfig-typescript-loader@npm:^2.0.0":
-  version: 2.0.1
-  resolution: "cosmiconfig-typescript-loader@npm:2.0.1"
+  version: 2.0.2
+  resolution: "cosmiconfig-typescript-loader@npm:2.0.2"
   dependencies:
     cosmiconfig: ^7
-    ts-node: ^10.8.0
+    ts-node: ^10.8.1
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=7"
     typescript: ">=3"
-  checksum: 8412f91c0c00150ffab8a4a1bf797cc5dc417b8b99c48d445daa11608722d87456aec5052b52c38d990868cdbb763708a272fd377f6f5c51e70d414bd69fafee
+  checksum: 0c9a777e2e3ff7594d753e5781e8c3817ce5ba493a4e69cfde698a8e231b438695248dcc62a16c661f93ada7f762ac6e24457889439c94f58c094a24aecbd982
   languageName: node
   linkType: hard
 
@@ -3430,11 +3430,11 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^3.0.0, minipass@npm:^3.1.0, minipass@npm:^3.1.1, minipass@npm:^3.1.3":
-  version: 3.3.2
-  resolution: "minipass@npm:3.3.2"
+  version: 3.3.3
+  resolution: "minipass@npm:3.3.3"
   dependencies:
     yallist: ^4.0.0
-  checksum: d403497393873eddd767293a0eff1a63cbf9931d7651bf43e3d1718e59469d9cab079379d5bd44e3dfbb61a446bbe63543039de32d7a8f703c7a8651ecdfcda3
+  checksum: 523a338f42140c2e62bff3429f236cc44a32ddd29a70d5221e0570ace237057190981cad406fd3a420f03a95cc001ad58a388d902b9519038e27f190bb88a6e7
   languageName: node
   linkType: hard
 
@@ -5210,7 +5210,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ts-node@npm:^10.8.0":
+"ts-node@npm:^10.8.1":
   version: 10.8.1
   resolution: "ts-node@npm:10.8.1"
   dependencies:
