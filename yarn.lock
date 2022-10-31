@@ -479,11 +479,9 @@ __metadata:
   linkType: hard
 
 "@npmcli/promise-spawn@npm:*":
-  version: 4.0.0
-  resolution: "@npmcli/promise-spawn@npm:4.0.0"
-  dependencies:
-    infer-owner: ^1.0.4
-  checksum: ee1257d9983f66ce1cd4f83be5c8f36eea5d0bf9836ecb4418c5bdf825c324cb0cb7e9e22c4554c501606634934b7d750006f5ce346963a9ee7cfbbd3c93a09c
+  version: 5.0.0
+  resolution: "@npmcli/promise-spawn@npm:5.0.0"
+  checksum: f6b9a0b41ea827faf752c72d10094be072851ec7b31f7cf97b151293850216bdf58c4c3bcce7466399da28224f4faa372190c13f242c6d9eb32967e71cb8e03d
   languageName: node
   linkType: hard
 
@@ -819,9 +817,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:^14.0.0":
-  version: 14.18.32
-  resolution: "@types/node@npm:14.18.32"
-  checksum: 45463114bf85d06dc12925d876dd90b7fff43d9ee10a40e48fd16aece3d0201c76426c128e41230b2818d386422be06c5be33b3d94d90ee924b6fa4d54574035
+  version: 14.18.33
+  resolution: "@types/node@npm:14.18.33"
+  checksum: 4e23f95186d8ae1d38c999bc6b46fe94e790da88744b0a3bfeedcbd0d9ffe2cb0ff39e85f43014f6739e5270292c1a1f6f97a1fc606fd573a0c17fda9a1d42de
   languageName: node
   linkType: hard
 
@@ -873,11 +871,11 @@ __metadata:
   linkType: hard
 
 "acorn@npm:^8.4.1":
-  version: 8.8.0
-  resolution: "acorn@npm:8.8.0"
+  version: 8.8.1
+  resolution: "acorn@npm:8.8.1"
   bin:
     acorn: bin/acorn
-  checksum: 7270ca82b242eafe5687a11fea6e088c960af712683756abf0791b68855ea9cace3057bd5e998ffcef50c944810c1e0ca1da526d02b32110e13c722aa959afdc
+  checksum: 4079b67283b94935157698831967642f24a075c52ce3feaaaafe095776dfbe15d86a1b33b1e53860fc0d062ed6c83f4284a5c87c85b9ad51853a01173da6097f
   languageName: node
   linkType: hard
 
@@ -1535,14 +1533,14 @@ __metadata:
   linkType: hard
 
 "cosmiconfig-typescript-loader@npm:^4.0.0":
-  version: 4.1.1
-  resolution: "cosmiconfig-typescript-loader@npm:4.1.1"
+  version: 4.2.0
+  resolution: "cosmiconfig-typescript-loader@npm:4.2.0"
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=7"
     ts-node: ">=10"
     typescript: ">=3"
-  checksum: a774961868f0406d0fd75e448c2e1a0ddb95de27d477fa325a37369a2cbd892cf4d639a109082cd886840dea7707ea9bed5c38a468b52de18400c4f1d495d35a
+  checksum: bbfe0dd4b8afe93880dbd85aeae551799ff05ecec23b7490bab56366d8362024ee12da954c86c16448d5919c47f0ac23d5d4e64062cda09e6f0ff63c9e080346
   languageName: node
   linkType: hard
 
@@ -1627,12 +1625,12 @@ __metadata:
   linkType: hard
 
 "decamelize-keys@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "decamelize-keys@npm:1.1.0"
+  version: 1.1.1
+  resolution: "decamelize-keys@npm:1.1.1"
   dependencies:
     decamelize: ^1.1.0
     map-obj: ^1.0.0
-  checksum: 8bc5d32e035a072f5dffc1f1f3d26ca7ab1fb44a9cade34c97ab6cd1e62c81a87e718101e96de07d78cecda20a3fdb955df958e46671ccad01bb8dcf0de2e298
+  checksum: fc645fe20b7bda2680bbf9481a3477257a7f9304b1691036092b97ab04c0ab53e3bf9fcc2d2ae382536568e402ec41fb11e1d4c3836a9abe2d813dd9ef4311e0
   languageName: node
   linkType: hard
 
@@ -2237,11 +2235,11 @@ __metadata:
   linkType: hard
 
 "hosted-git-info@npm:^5.0.0, hosted-git-info@npm:^5.1.0":
-  version: 5.1.0
-  resolution: "hosted-git-info@npm:5.1.0"
+  version: 5.2.1
+  resolution: "hosted-git-info@npm:5.2.1"
   dependencies:
     lru-cache: ^7.5.1
-  checksum: 22abbc6a7418344c883e2df6e791e94b38192b2a61256b19c955999d878b8d5365ea51683fd1f0cc8f217e9bd121db88d5aaa7cf0407c4b7ff287b79aabacbd3
+  checksum: fa35df185224adfd69141f3b2f8cc31f50e705a5ebb415ccfbfd055c5b94bd08d3e658edf1edad9e2ac7d81831ac7cf261f5d219b3adc8d744fb8cdacaaf2ead
   languageName: node
   linkType: hard
 
