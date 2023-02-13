@@ -836,9 +836,9 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 18.11.19
-  resolution: "@types/node@npm:18.11.19"
-  checksum: d7cd19fcfc59cbdd3f9ba0b4072cb7adc21bd575bd8eb7d7e698975e63564aaa83f03434f32b12331f84f73d0b369d9cbe2371e359d9d7f5c3361f4987f4f7da
+  version: 18.13.0
+  resolution: "@types/node@npm:18.13.0"
+  checksum: 4ea10f8802848b01672bce938f678b6774ca2cee0c9774f12275ab064ae07818419c3e2e41d6257ce7ba846d1ea26c63214aa1dfa4166fa3746291752b8c6416
   languageName: node
   linkType: hard
 
@@ -2891,8 +2891,8 @@ __metadata:
   linkType: hard
 
 "lint-staged@npm:^13.0.0":
-  version: 13.1.0
-  resolution: "lint-staged@npm:13.1.0"
+  version: 13.1.1
+  resolution: "lint-staged@npm:13.1.1"
   dependencies:
     cli-truncate: ^3.1.0
     colorette: ^2.0.19
@@ -2909,7 +2909,7 @@ __metadata:
     yaml: ^2.1.3
   bin:
     lint-staged: bin/lint-staged.js
-  checksum: adf20c4ca9285c4a93b06598b970d71b04cfe58a1a4c9006f753b83e02c1c622d1866c32a4f1e7e29a98091c501eac3345f7678af247b4f97d5be88b3d8727c1
+  checksum: 8e5093c7e982a2f6d6449927a40156a812644479df1d2760aee8bf05df3a314e022d8f7e275e57fd61769ee57e3cf7b062ed3c6e4934a63848300b877e269daa
   languageName: node
   linkType: hard
 
@@ -2975,11 +2975,11 @@ __metadata:
   linkType: hard
 
 "locate-path@npm:^7.1.0":
-  version: 7.1.1
-  resolution: "locate-path@npm:7.1.1"
+  version: 7.2.0
+  resolution: "locate-path@npm:7.2.0"
   dependencies:
     p-locate: ^6.0.0
-  checksum: 1d88af5b512d6e6398026252e17382907126683ab09ae5d6b8918d0bc72ca2642e1ad6e2fe635c5920840e369618e5d748c08deb57ba537fdd3f78e87ca993e0
+  checksum: c1b653bdf29beaecb3d307dfb7c44d98a2a98a02ebe353c9ad055d1ac45d6ed4e1142563d222df9b9efebc2bcb7d4c792b507fad9e7150a04c29530b7db570f8
   languageName: node
   linkType: hard
 
@@ -3303,9 +3303,9 @@ __metadata:
   linkType: hard
 
 "minimist@npm:^1.2.0, minimist@npm:^1.2.5, minimist@npm:^1.2.6":
-  version: 1.2.7
-  resolution: "minimist@npm:1.2.7"
-  checksum: 7346574a1038ca23c32e02252f603801f09384dd1d78b69a943a4e8c2c28730b80e96193882d3d3b22a063445f460e48316b29b8a25addca2d7e5e8f75478bec
+  version: 1.2.8
+  resolution: "minimist@npm:1.2.8"
+  checksum: 75a6d645fb122dad29c06a7597bddea977258957ed88d7a6df59b5cd3fe4a527e253e9bbf2e783e4b73657f9098b96a5fe96ab8a113655d4109108577ecf85b0
   languageName: node
   linkType: hard
 
@@ -3380,9 +3380,9 @@ __metadata:
   linkType: hard
 
 "minipass@npm:^4.0.0":
-  version: 4.0.2
-  resolution: "minipass@npm:4.0.2"
-  checksum: 2e4f4caaf85a45c01c6042adc43b5111a6113f62e300acf1db3b193ac3ec6e955bc893d6d8a08635598771a55a0f60487dcac59a1ac39557eb524295d4778c9e
+  version: 4.0.3
+  resolution: "minipass@npm:4.0.3"
+  checksum: a09f405e2f380ae7f6ee0cbb53b45c1fcc1b6c70fc3896f4d20649d92a10e61892c57bd9960a64cedf6c90b50022cb6c195905b515039c335b423202f99e6f18
   languageName: node
   linkType: hard
 
@@ -4168,11 +4168,11 @@ __metadata:
   linkType: hard
 
 "prettier@npm:^2.2.1":
-  version: 2.8.3
-  resolution: "prettier@npm:2.8.3"
+  version: 2.8.4
+  resolution: "prettier@npm:2.8.4"
   bin:
     prettier: bin-prettier.js
-  checksum: 92f2ceb522d454370e02082aa74ad27388672f7cee8975028b59517c069fe643bdc73e322675c8faf2ff173d7a626d1a6389f26b474000308e793aa25fff46e5
+  checksum: c173064bf3df57b6d93d19aa98753b9b9dd7657212e33b41ada8e2e9f9884066bb9ca0b4005b89b3ab137efffdf8fbe0b462785aba20364798ff4303aadda57e
   languageName: node
   linkType: hard
 
