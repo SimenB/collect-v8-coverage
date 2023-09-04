@@ -3003,15 +3003,15 @@ __metadata:
   linkType: hard
 
 "jackspeak@npm:^2.0.3":
-  version: 2.3.1
-  resolution: "jackspeak@npm:2.3.1"
+  version: 2.3.2
+  resolution: "jackspeak@npm:2.3.2"
   dependencies:
     "@isaacs/cliui": ^8.0.2
     "@pkgjs/parseargs": ^0.11.0
   dependenciesMeta:
     "@pkgjs/parseargs":
       optional: true
-  checksum: 34ea4d618d8d36ac104fe1053c85dfb6a63306cfe87e157ef42f18a7aa30027887370a4e163dd4993e45c6bf8a8ae003bf8476fdb8538e8ee5cd1938c27b15d0
+  checksum: 1c298da6eeecf435fc9aa38c017ee11191a9f198aed404bbe1af55929678c60a08dec23693c26e88d6a24c03b225b651d2634d09cee6f16aaf2d692713de56fc
   languageName: node
   linkType: hard
 
