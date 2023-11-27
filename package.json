@@ -18,7 +18,7 @@
     "husky": "^8.0.0",
     "lint-staged": "^13.0.0",
     "prettier": "^2.2.1",
-    "semantic-release": "^21.0.0"
+    "semantic-release": "^22.0.0"
   },
   "prettier": {
     "singleQuote": true,
