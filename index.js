@@ -13,6 +13,8 @@ class CoverageInstrumenter {
   async startInstrumenting() {
     this.session.connect();
 
+    await this.postSession('Debugger.enable');
+
     await this.postSession('Profiler.enable');
 
     await this.postSession('Profiler.startPreciseCoverage', {
