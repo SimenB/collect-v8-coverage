@@ -1155,7 +1155,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^5.3.0, chalk@npm:~5.3.0":
+"chalk@npm:^5.3.0":
+  version: 5.4.1
+  resolution: "chalk@npm:5.4.1"
+  checksum: 10/29df3ffcdf25656fed6e95962e2ef86d14dfe03cd50e7074b06bad9ffbbf6089adbb40f75c00744d843685c8d008adaf3aed31476780312553caf07fa86e5bc7
+  languageName: node
+  linkType: hard
+
+"chalk@npm:~5.3.0":
   version: 5.3.0
   resolution: "chalk@npm:5.3.0"
   checksum: 10/6373caaab21bd64c405bfc4bd9672b145647fc9482657b5ea1d549b3b2765054e9d3d928870cdf764fb4aad67555f5061538ff247b8310f110c5c888d92397ea
@@ -2487,11 +2494,11 @@ __metadata:
   linkType: hard
 
 "jiti@npm:^2.4.1":
-  version: 2.4.1
-  resolution: "jiti@npm:2.4.1"
+  version: 2.4.2
+  resolution: "jiti@npm:2.4.2"
   bin:
     jiti: lib/jiti-cli.mjs
-  checksum: 10/c05d3645ff4a88f5c52e33757dbae18737f6b51aa46631ed18cbf7741f2d997eb91ffd4249f61b47779d8ac1931d6539ec48dfdab8e1ca761cc160aa240d09f2
+  checksum: 10/e2b07eb2e3fbb245e29ad288dddecab31804967fc84d5e01d39858997d2743b5e248946defcecf99272275a00284ecaf7ec88b8c841331324f0c946d8274414b
   languageName: node
   linkType: hard
 
@@ -3010,11 +3017,11 @@ __metadata:
   linkType: hard
 
 "mime@npm:^4.0.0":
-  version: 4.0.4
-  resolution: "mime@npm:4.0.4"
+  version: 4.0.6
+  resolution: "mime@npm:4.0.6"
   bin:
     mime: bin/cli.js
-  checksum: 10/28e41053ae09cbf4186c551d7cc3cdda10c04fdf447cfdb66db096d83279889a0e0589805b15e36c37ca8b0eedfa6317f25d0514462525271f0cffa5cb0514b4
+  checksum: 10/b0021e638e44b59a5945631c5101ad616cb46b052dede3d06cae78222d9ca875950d4c34cf463c66fdf5a9ce79207e82f90033dcff7f6b2e88676cab05e7b002
   languageName: node
   linkType: hard
 
@@ -4758,9 +4765,9 @@ __metadata:
   linkType: hard
 
 "type-fest@npm:^4.6.0, type-fest@npm:^4.7.1":
-  version: 4.30.1
-  resolution: "type-fest@npm:4.30.1"
-  checksum: 10/0a2af4d096053b89f6c4323108feeee1865a77f7440b16e2cafef8429afa28539ff1cb99fb8703f07c3893530b1f27e9b51f344dc1ff627d7d2fe2b7c07cc6f6
+  version: 4.30.2
+  resolution: "type-fest@npm:4.30.2"
+  checksum: 10/c5168b159c366e4fd5b74c7f7b786bed9248c03f67e6e07d52dd5d51354447468fa7c92b9f2142c7fe9279814031f783959370242c3520de848931b65ddb48bb
   languageName: node
   linkType: hard
 
