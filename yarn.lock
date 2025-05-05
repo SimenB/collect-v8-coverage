@@ -6,20 +6,20 @@ __metadata:
   cacheKey: 10
 
 "@babel/code-frame@npm:^7.0.0, @babel/code-frame@npm:^7.26.2":
-  version: 7.26.2
-  resolution: "@babel/code-frame@npm:7.26.2"
+  version: 7.27.1
+  resolution: "@babel/code-frame@npm:7.27.1"
   dependencies:
-    "@babel/helper-validator-identifier": "npm:^7.25.9"
+    "@babel/helper-validator-identifier": "npm:^7.27.1"
     js-tokens: "npm:^4.0.0"
-    picocolors: "npm:^1.0.0"
-  checksum: 10/db2c2122af79d31ca916755331bb4bac96feb2b334cdaca5097a6b467fdd41963b89b14b6836a14f083de7ff887fc78fa1b3c10b14e743d33e12dbfe5ee3d223
+    picocolors: "npm:^1.1.1"
+  checksum: 10/721b8a6e360a1fa0f1c9fe7351ae6c874828e119183688b533c477aa378f1010f37cc9afbfc4722c686d1f5cdd00da02eab4ba7278a0c504fa0d7a321dcd4fdf
   languageName: node
   linkType: hard
 
-"@babel/helper-validator-identifier@npm:^7.25.9":
-  version: 7.25.9
-  resolution: "@babel/helper-validator-identifier@npm:7.25.9"
-  checksum: 10/3f9b649be0c2fd457fa1957b694b4e69532a668866b8a0d81eabfa34ba16dbf3107b39e0e7144c55c3c652bf773ec816af8df4a61273a2bb4eb3145ca9cf478e
+"@babel/helper-validator-identifier@npm:^7.27.1":
+  version: 7.27.1
+  resolution: "@babel/helper-validator-identifier@npm:7.27.1"
+  checksum: 10/75041904d21bdc0cd3b07a8ac90b11d64cd3c881e89cb936fa80edd734bf23c35e6bd1312611e8574c4eab1f3af0f63e8a5894f4699e9cfdf70c06fcf4252320
   languageName: node
   linkType: hard
 
@@ -462,9 +462,9 @@ __metadata:
   linkType: hard
 
 "@npmcli/redact@npm:^3.0.0":
-  version: 3.1.1
-  resolution: "@npmcli/redact@npm:3.1.1"
-  checksum: 10/8a2f6cb6e0a42474731bfd0888dbff290efece779636b4d93a520339d3a8d6f3c5460ce03d871fcbc1c77e9864b4558340c5792784f1aac0cc493124dbac790c
+  version: 3.2.1
+  resolution: "@npmcli/redact@npm:3.2.1"
+  checksum: 10/b5744430d649dd7ad9e807470bd744c47b74aa29dced14739346ddf955117f3bf1525e0d229efb7954784b3d51f5124872958f959adf701897e4835b73613f7f
   languageName: node
   linkType: hard
 
@@ -804,7 +804,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sigstore/protobuf-specs@npm:^0.4.0":
+"@sigstore/protobuf-specs@npm:^0.4.0, @sigstore/protobuf-specs@npm:^0.4.1":
   version: 0.4.1
   resolution: "@sigstore/protobuf-specs@npm:0.4.1"
   checksum: 10/8d2840fdd2bb529ade50b0fc4ed34797386272f50b42575bd033002a89bea7a4030e2c2b7f2c077ef09c02d73b51182652a25114c5dc13b83a0853b86c204bd0
@@ -826,23 +826,23 @@ __metadata:
   linkType: hard
 
 "@sigstore/tuf@npm:^3.0.0, @sigstore/tuf@npm:^3.1.0":
-  version: 3.1.0
-  resolution: "@sigstore/tuf@npm:3.1.0"
+  version: 3.1.1
+  resolution: "@sigstore/tuf@npm:3.1.1"
   dependencies:
-    "@sigstore/protobuf-specs": "npm:^0.4.0"
+    "@sigstore/protobuf-specs": "npm:^0.4.1"
     tuf-js: "npm:^3.0.1"
-  checksum: 10/7040aaa8b05ab2ff62fec078ccb2ebfe8d96b862ad11dc4daebb707e11b72e424f54c55b6878b6a5b6b551afd1209078dc4140dda0f93c5b3afac7cc5fb9bb16
+  checksum: 10/f6eeba3fa72fa22b119af84b4a3d5ce2ad50c2e1600241f493ed4d8ec1d128a437d649c9e5cdf0135edf0db82468f8c7c25458ab97978aa5780ab7aece1ade48
   languageName: node
   linkType: hard
 
 "@sigstore/verify@npm:^2.1.0":
-  version: 2.1.0
-  resolution: "@sigstore/verify@npm:2.1.0"
+  version: 2.1.1
+  resolution: "@sigstore/verify@npm:2.1.1"
   dependencies:
     "@sigstore/bundle": "npm:^3.1.0"
     "@sigstore/core": "npm:^2.0.0"
-    "@sigstore/protobuf-specs": "npm:^0.4.0"
-  checksum: 10/bb0a8472c80d27f0647106f18fe71112262bc13f21384c224c62bfd69e0672e0dd635537e7df566018d37f6604c437f162bcbdfe0a9d427d77541da7f36b51eb
+    "@sigstore/protobuf-specs": "npm:^0.4.1"
+  checksum: 10/ff2aa8c441fd45b20a048b8746fa1d6096e3385a7098352b24703bca790d0555383d21f29b0ce8223c36dd98e14ed7dae82d044ff005c76e0e68c240f0a0458d
   languageName: node
   linkType: hard
 
@@ -894,11 +894,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 22.14.1
-  resolution: "@types/node@npm:22.14.1"
+  version: 22.15.3
+  resolution: "@types/node@npm:22.15.3"
   dependencies:
     undici-types: "npm:~6.21.0"
-  checksum: 10/561b1ad98ef5176d6da856ffbbe494f16655149f6a7d561de0423c8784910c81267d7d6459f59d68a97b3cbae9b5996b3b5dfe64f4de3de2239d295dcf4a4dcc
+  checksum: 10/6b4ff03c36598432b419980f828281aa16383e2de6eb61f73275495ef8d2cbf8cb5607659b4cae5ff8b2b2ff69913ea07ffcc0be029e4280b6e8bc138dc6629b
   languageName: node
   linkType: hard
 
@@ -2216,9 +2216,9 @@ __metadata:
   linkType: hard
 
 "ignore@npm:^7.0.3":
-  version: 7.0.3
-  resolution: "ignore@npm:7.0.3"
-  checksum: 10/ce5e812af3acd6607a3fe0a9f9b5f01d53f009a5ace8cbf5b6491d05a481b55d65186e6a7eaa13126e93f15276bcf3d1e8d6ff3ce5549c312f9bb313fff33365
+  version: 7.0.4
+  resolution: "ignore@npm:7.0.4"
+  checksum: 10/01ee59df2ffd14b0844efc17f5ab3642c848e45efdb7cc757928da5e076cb74313748f77f5ffe362a6407c5e7cc71f10fad5e8eb9d91c1a17c4e7ef2c1f8e40e
   languageName: node
   linkType: hard
 
@@ -3843,7 +3843,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"picocolors@npm:^1.0.0":
+"picocolors@npm:^1.1.1":
   version: 1.1.1
   resolution: "picocolors@npm:1.1.1"
   checksum: 10/e1cf46bf84886c79055fdfa9dcb3e4711ad259949e3565154b004b260cd356c5d54b31a1437ce9782624bf766272fe6b0154f5f0c744fb7af5d454d2b60db045
@@ -4784,9 +4784,9 @@ __metadata:
   linkType: hard
 
 "type-fest@npm:^4.39.1, type-fest@npm:^4.6.0":
-  version: 4.40.0
-  resolution: "type-fest@npm:4.40.0"
-  checksum: 10/dbca20979d18c6b8c87ca28cd999d9ae6b34e0c54c3a87ac65530a32f7a178d38d3788044a589f47c9fde3f3c81422e7b021ec1455f7242b724a2d9c642ce8b8
+  version: 4.40.1
+  resolution: "type-fest@npm:4.40.1"
+  checksum: 10/907767cd7889c8f17d94f4a811ec27c33339a9134f6842a1a56b4d6ee87cb1d6b01332f366a3f03adc10923fd6d511d73b73076f7ab5256bf5c0b43a03ab6e8b
   languageName: node
   linkType: hard
 
