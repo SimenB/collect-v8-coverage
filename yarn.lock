@@ -429,8 +429,8 @@ __metadata:
   linkType: hard
 
 "@npmcli/package-json@npm:^6.0.0, @npmcli/package-json@npm:^6.0.1, @npmcli/package-json@npm:^6.1.0":
-  version: 6.1.1
-  resolution: "@npmcli/package-json@npm:6.1.1"
+  version: 6.2.0
+  resolution: "@npmcli/package-json@npm:6.2.0"
   dependencies:
     "@npmcli/git": "npm:^6.0.0"
     glob: "npm:^10.2.2"
@@ -439,7 +439,7 @@ __metadata:
     proc-log: "npm:^5.0.0"
     semver: "npm:^7.5.3"
     validate-npm-package-license: "npm:^3.0.4"
-  checksum: 10/dd79cda6d01b71a3affb66fed38510b0e06f2d727077e9b3bd49842d3c6ac19abfd0710f23d82a20289f8f98cf58d906ab2144343d45850ff49fa5741afc1f61
+  checksum: 10/56b8ba471326cf0c3d2f956d46f82e843bf845302e1ead4cc8a3d1742a4bb6aea4e871d292f0fa4a836a0068cd4002afd7a964acf35b0d7a6ea838746eb74303
   languageName: node
   linkType: hard
 
@@ -532,10 +532,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@octokit/openapi-types@npm:^25.0.0":
-  version: 25.0.0
-  resolution: "@octokit/openapi-types@npm:25.0.0"
-  checksum: 10/d412a7ee77d7e3767aff1df012023b8c4d4c0d58a52c110e78557ac368b20fd01205c3f0c14e0fc2d6c0e2163b8e9931bd8d1bb59986477af49d04e6e5bbf827
+"@octokit/openapi-types@npm:^25.1.0":
+  version: 25.1.0
+  resolution: "@octokit/openapi-types@npm:25.1.0"
+  checksum: 10/91989a4cec12250e6b3226e9aa931c05c27d46a946725d01e6a831af3890f157210a7032f07641a156c608cc6bf6cf55a28f07179910b644966358d6d559dec6
   languageName: node
   linkType: hard
 
@@ -607,11 +607,11 @@ __metadata:
   linkType: hard
 
 "@octokit/types@npm:^14.0.0":
-  version: 14.0.0
-  resolution: "@octokit/types@npm:14.0.0"
+  version: 14.1.0
+  resolution: "@octokit/types@npm:14.1.0"
   dependencies:
-    "@octokit/openapi-types": "npm:^25.0.0"
-  checksum: 10/bff427e7f4ff32ccf62536b87e2f7b7d4f6baa543de27006dc55b0356df0274267f3a782372efda5921412b15d2b37e92f30bbacf8b09d7134699fe79a6907a1
+    "@octokit/openapi-types": "npm:^25.1.0"
+  checksum: 10/ea5549ca6176bd1184427141a77bca88c68f07d252d3ea1db7f9b58ec16b66391218a75a99927efb1e36a2cb00e8ed37a79b71fdc95a1117a9982516156fd997
   languageName: node
   linkType: hard
 
@@ -894,11 +894,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 22.15.19
-  resolution: "@types/node@npm:22.15.19"
+  version: 22.15.21
+  resolution: "@types/node@npm:22.15.21"
   dependencies:
     undici-types: "npm:~6.21.0"
-  checksum: 10/02311c2b5dbf2e9e2c17497dc27858bcefbe12a81af0d9b81f865613d8d014726e0eb6cbebfbdb84a327c1b9f9da1347a65a7699ac58c8854fb4daf447031149
+  checksum: 10/cb4189587cca445bfb8166c0ed39f9344d743f37f3da892f2999a99bbabda45dc773237e61ecb7d1dc83dd95718cb1b5715b0be5dd7953565b19019e36a7cf39
   languageName: node
   linkType: hard
 
@@ -1632,12 +1632,12 @@ __metadata:
   linkType: hard
 
 "env-ci@npm:^11.0.0":
-  version: 11.1.0
-  resolution: "env-ci@npm:11.1.0"
+  version: 11.1.1
+  resolution: "env-ci@npm:11.1.1"
   dependencies:
     execa: "npm:^8.0.0"
     java-properties: "npm:^1.0.2"
-  checksum: 10/7e1a3946fa7fffc5fe7ae374a22a1c2569b7165196f3168793cbc3b2dc6ee0e283a5c8b29aeeb0777cfdedbdcabedb43ddc8cab29f5ea93448bb5c07b08726ea
+  checksum: 10/cc873289bfbc9b1bf4051dbcc8f38ba61578949d19a5430550897d06f5743802a167a874a1f8a4cb33b5688002309018deb85d24946c251e89b68577222c098a
   languageName: node
   linkType: hard
 
@@ -4726,12 +4726,12 @@ __metadata:
   linkType: hard
 
 "tinyglobby@npm:^0.2.12":
-  version: 0.2.13
-  resolution: "tinyglobby@npm:0.2.13"
+  version: 0.2.14
+  resolution: "tinyglobby@npm:0.2.14"
   dependencies:
     fdir: "npm:^6.4.4"
     picomatch: "npm:^4.0.2"
-  checksum: 10/b04557ee58ad2be5f2d2cbb4b441476436c92bb45ba2e1fc464d686b793392b305ed0bcb8b877429e9b5036bdd46770c161a08384c0720b6682b7cd6ac80e403
+  checksum: 10/3d306d319718b7cc9d79fb3f29d8655237aa6a1f280860a217f93417039d0614891aee6fc47c5db315f4fcc6ac8d55eb8e23e2de73b2c51a431b42456d9e5764
   languageName: node
   linkType: hard
 
