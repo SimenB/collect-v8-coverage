@@ -3243,8 +3243,8 @@ __metadata:
   linkType: hard
 
 "node-gyp@npm:^11.0.0, node-gyp@npm:^11.2.0":
-  version: 11.3.0
-  resolution: "node-gyp@npm:11.3.0"
+  version: 11.4.1
+  resolution: "node-gyp@npm:11.4.1"
   dependencies:
     env-paths: "npm:^2.2.0"
     exponential-backoff: "npm:^3.1.1"
@@ -3258,7 +3258,7 @@ __metadata:
     which: "npm:^5.0.0"
   bin:
     node-gyp: bin/node-gyp.js
-  checksum: 10/e7fb17ba72172d743ee791ea470cba1a579d1c37bcaa67a45d221d07df055baf1367d0684b3c7ee2b9b61f260cea77b2016aaac47027dbc0f43030c90b21527d
+  checksum: 10/78d388d37cf743baef1034e2210ae97a7618190696adcce609341626a6873af193d9cf5e71e5dab905dad3c13f21d4d3652ffb30bb87886fba385efaa4802f0e
   languageName: node
   linkType: hard
 
@@ -5041,8 +5041,8 @@ __metadata:
   linkType: hard
 
 "yoctocolors@npm:^2.1.1":
-  version: 2.1.1
-  resolution: "yoctocolors@npm:2.1.1"
-  checksum: 10/563fbec88bce9716d1044bc98c96c329e1d7a7c503e6f1af68f1ff914adc3ba55ce953c871395e2efecad329f85f1632f51a99c362032940321ff80c42a6f74d
+  version: 2.1.2
+  resolution: "yoctocolors@npm:2.1.2"
+  checksum: 10/6ee42d665a4cc161c7de3f015b2a65d6c65d2808bfe3b99e228bd2b1b784ef1e54d1907415c025fc12b400f26f372bfc1b71966c6c738d998325ca422eb39363
   languageName: node
   linkType: hard
