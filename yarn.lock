@@ -894,11 +894,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 24.6.2
-  resolution: "@types/node@npm:24.6.2"
+  version: 24.7.2
+  resolution: "@types/node@npm:24.7.2"
   dependencies:
-    undici-types: "npm:~7.13.0"
-  checksum: 10/8d1e64b37abdafd3da295394235ad5357509ac0b47e6991d36b1eecacd7ad830ada60ca71b7b3598b6c8b519361fb70aab691888c378ff25e69dba5690afcc22
+    undici-types: "npm:~7.14.0"
+  checksum: 10/62073022f7fc11363683e6ce82332193129c3053e7f973127a83b0daa5d755ecf5806d310f5a7c78375e6c3d309aa15b4ae87c4c1797a9eec091425d36098b60
   languageName: node
   linkType: hard
 
@@ -1469,15 +1469,15 @@ __metadata:
   linkType: hard
 
 "cosmiconfig-typescript-loader@npm:^6.1.0":
-  version: 6.1.0
-  resolution: "cosmiconfig-typescript-loader@npm:6.1.0"
+  version: 6.2.0
+  resolution: "cosmiconfig-typescript-loader@npm:6.2.0"
   dependencies:
-    jiti: "npm:^2.4.1"
+    jiti: "npm:^2.6.1"
   peerDependencies:
     "@types/node": "*"
     cosmiconfig: ">=9"
     typescript: ">=5"
-  checksum: 10/e8b28b08759753c46a991e3d4db675480ea0081da9c098e426a89f4a12395e448c3090536d1ec1cb7adb5d7beb0ea266b7717053e3adbc283806a3b62339b68d
+  checksum: 10/f905077c7233e561810b030342e6b85a2a58ddcfdaaad7d7b0a52f6376581957826e3aa64238d80d1aaf4d24013342d7c780888cffb36ba445d728d6e12588f3
   languageName: node
   linkType: hard
 
@@ -1754,9 +1754,9 @@ __metadata:
   linkType: hard
 
 "exponential-backoff@npm:^3.1.1":
-  version: 3.1.2
-  resolution: "exponential-backoff@npm:3.1.2"
-  checksum: 10/ca2f01f1aa4dafd3f3917bd531ab5be08c6f5f4b2389d2e974f903de3cbeb50b9633374353516b6afd70905775e33aba11afab1232d3acf0aa2963b98a611c51
+  version: 3.1.3
+  resolution: "exponential-backoff@npm:3.1.3"
+  checksum: 10/ca25962b4bbab943b7c4ed0b5228e263833a5063c65e1cdeac4be9afad350aae5466e8e619b5051f4f8d37b2144a2d6e8fcc771b6cc82934f7dade2f964f652c
   languageName: node
   linkType: hard
 
@@ -2511,7 +2511,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jiti@npm:^2.4.1":
+"jiti@npm:^2.6.1":
   version: 2.6.1
   resolution: "jiti@npm:2.6.1"
   bin:
@@ -4204,11 +4204,11 @@ __metadata:
   linkType: hard
 
 "semver@npm:^7.1.1, semver@npm:^7.1.2, semver@npm:^7.3.2, semver@npm:^7.3.5, semver@npm:^7.3.7, semver@npm:^7.5.2, semver@npm:^7.5.3, semver@npm:^7.6.0, semver@npm:^7.7.2":
-  version: 7.7.2
-  resolution: "semver@npm:7.7.2"
+  version: 7.7.3
+  resolution: "semver@npm:7.7.3"
   bin:
     semver: bin/semver.js
-  checksum: 10/7a24cffcaa13f53c09ce55e05efe25cd41328730b2308678624f8b9f5fc3093fc4d189f47950f0b811ff8f3c3039c24a2c36717ba7961615c682045bf03e1dda
+  checksum: 10/8dbc3168e057a38fc322af909c7f5617483c50caddba135439ff09a754b20bdd6482a5123ff543dad4affa488ecf46ec5fb56d61312ad20bb140199b88dfaea9
   languageName: node
   linkType: hard
 
@@ -4763,10 +4763,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici-types@npm:~7.13.0":
-  version: 7.13.0
-  resolution: "undici-types@npm:7.13.0"
-  checksum: 10/1088ad68dd57981aa6eced5b3f5d74129ac619fbe558b30cb584d6096d32b084ae30d7cdc480d622226e6ffc8d31e01ac30215816439a0d784e0fe64db873b0f
+"undici-types@npm:~7.14.0":
+  version: 7.14.0
+  resolution: "undici-types@npm:7.14.0"
+  checksum: 10/0f8709b21437697af35801e33bddbe9992e0cf1771959c41850b1946f63822b825e03ce99f44bf19e4f5c3ccc5166e0be59f541565c36ce86163dc2c5870bc62
   languageName: node
   linkType: hard
 
