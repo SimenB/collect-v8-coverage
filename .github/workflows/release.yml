@@ -13,6 +13,7 @@ jobs:
       - uses: actions/setup-node@v6
         with:
           node-version: 'lts/*'
+          cache: yarn
       - name: install
         run: yarn
       - run: yarn semantic-release
