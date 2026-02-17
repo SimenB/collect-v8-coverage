@@ -16,7 +16,7 @@
     "@semantic-release/changelog": "^6.0.0",
     "@semantic-release/git": "^10.0.0",
     "husky": "^9.0.0",
-    "lint-staged": "^15.0.0",
+    "lint-staged": "^16.0.0",
     "prettier": "^3.0.0",
     "semantic-release": "^25.0.0"
   },
