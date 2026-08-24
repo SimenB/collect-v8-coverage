@@ -585,16 +585,16 @@ __metadata:
   linkType: hard
 
 "@octokit/request@npm:^10.0.13":
-  version: 10.0.13
-  resolution: "@octokit/request@npm:10.0.13"
+  version: 10.0.15
+  resolution: "@octokit/request@npm:10.0.15"
   dependencies:
     "@octokit/endpoint": "npm:^11.0.3"
     "@octokit/request-error": "npm:^7.1.1"
     "@octokit/types": "npm:^17.0.0"
-    content-type: "npm:^2.0.0"
-    json-with-bigint: "npm:^3.5.3"
+    content-type: "npm:^3.0.0"
+    json-with-bigint: "npm:^3.5.12"
     universal-user-agent: "npm:^7.0.2"
-  checksum: 10/6edce2ab7c5cbb29c65374929f5342c00445a6b0bb4788b2da23bbfe6844456949f5fcc3f1b17b955902215723836b72fa474e31d051df98f4f90dfb7c62ebe5
+  checksum: 10/f8c7dde8a9b84e5fe74885ef778693a166b7dd68b1170be29cc9af8f77992552033b4a6175cf4fc29e2c6052d537abc80a6bbfcb9d623b7b647fc6037f4daee8
   languageName: node
   linkType: hard
 
@@ -801,9 +801,9 @@ __metadata:
   linkType: hard
 
 "@sigstore/protobuf-specs@npm:^0.5.0":
-  version: 0.5.1
-  resolution: "@sigstore/protobuf-specs@npm:0.5.1"
-  checksum: 10/2ca6b044ab70e6aa85cc0b67f2d67724cf8b9efc49d6f7fd65993ee9b9aea02a5e8e7a73cc2a75e1968f2aa231f79d28e4bb7e88c1f98274405214e4cb1568b2
+  version: 0.5.2
+  resolution: "@sigstore/protobuf-specs@npm:0.5.2"
+  checksum: 10/b094ce821080286de735743cbd5b453745abce3620e858c42098d05f038897b06ff2e348aff857e102427316a33290e97d953f240ad9498d4b0f274c5d2e34c7
   languageName: node
   linkType: hard
 
@@ -1392,10 +1392,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"content-type@npm:^2.0.0":
+"content-type@npm:^2.1.0":
   version: 2.1.0
   resolution: "content-type@npm:2.1.0"
   checksum: 10/8aac907922538f430d8bfab1d8fe2fbdc1eb890a0fa7a619f712db4bfefe24be951ba464f972007df64840c775bf2db284ca8223547ac5317ad9ab2ee8e6501b
+  languageName: node
+  linkType: hard
+
+"content-type@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "content-type@npm:3.0.0"
+  checksum: 10/24b17acec728546e09fc0dfe7c0301ff2c3aad8fcbaa6dd8cad2c58855adf8a39b31017ab7d70abab9919626c73a2dbca83925985ee88fccbd6b9f703a5a3eb4
   languageName: node
   linkType: hard
 
@@ -1758,9 +1765,9 @@ __metadata:
   linkType: hard
 
 "fast-uri@npm:^3.0.1":
-  version: 3.1.5
-  resolution: "fast-uri@npm:3.1.5"
-  checksum: 10/784bef687ca3ecfb4587a05104a4d41101796f0fec72be47a9abed743b10109e69a24d1ad0854ee7d2705912dc2ca9d93e03d35b65df0a3da0339e05b5d83b5c
+  version: 3.1.6
+  resolution: "fast-uri@npm:3.1.6"
+  checksum: 10/de34fceafd3a1d917989a1116b092d9b6ebe6fa3c9e908a308b988a6455449fa0a0256b6ef628aa7da80f1f84031d704c290d6ba0ea4c6f4c42b7974a3bd43ae
   languageName: node
   linkType: hard
 
@@ -2431,10 +2438,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"json-with-bigint@npm:^3.5.3":
-  version: 3.5.11
-  resolution: "json-with-bigint@npm:3.5.11"
-  checksum: 10/bd7d78b661c48c57ad4337bf85e0c708dc6a6d3c5aea836494f042c67e1d91da988a849832940d6bca11765d4a12500c80a1fa0200e0d4148976a20d248ccc14
+"json-with-bigint@npm:^3.5.12":
+  version: 3.5.12
+  resolution: "json-with-bigint@npm:3.5.12"
+  checksum: 10/096a98e435311ab7cdc645769b949cda0cc723b2f1fd0dd5e86839432a703e804a99136da658536e86b876a85d193a87066352e6723dbcc498439fc6c3c34d5c
   languageName: node
   linkType: hard
 
@@ -3044,9 +3051,11 @@ __metadata:
   linkType: hard
 
 "negotiator@npm:^1.0.0":
-  version: 1.0.0
-  resolution: "negotiator@npm:1.0.0"
-  checksum: 10/b5734e87295324fabf868e36fb97c84b7d7f3156ec5f4ee5bf6e488079c11054f818290fc33804cef7b1ee21f55eeb14caea83e7dafae6492a409b3e573153e5
+  version: 1.1.0
+  resolution: "negotiator@npm:1.1.0"
+  dependencies:
+    content-type: "npm:^2.1.0"
+  checksum: 10/4186a9ff245d1ebf0e206cdd78e45e4aada90b45bfd4188638a6bf43d496bfc8337bc49bdd1ecb52aa807ccb80fb4e9c0257ee60ff63d9d74e20df728068f11b
   languageName: node
   linkType: hard
 
