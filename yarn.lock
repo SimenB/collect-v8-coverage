@@ -906,11 +906,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 26.5.1
-  resolution: "@types/node@npm:26.5.1"
+  version: 26.6.2
+  resolution: "@types/node@npm:26.6.2"
   dependencies:
     undici-types: "npm:~8.9.0"
-  checksum: 10/5b509d30dc9344c91cba3291acecf6f424320cb763c8192befd50cc8b1a8207dd7dcff8c4f313eea6468e9f2121cc78ffb6affbd7ecd951b4b32e2629ea9856d
+  checksum: 10/757d598381b690e4429b9fab3adcf48f88ac7ed17488b47724cf3df9d6d38bcac17ab61c10cabecc5dbda5717f3f819208549ba3cef4cd941300440282a2a1a8
   languageName: node
   linkType: hard
 
@@ -1118,11 +1118,11 @@ __metadata:
   linkType: hard
 
 "brace-expansion@npm:^5.0.8":
-  version: 5.0.9
-  resolution: "brace-expansion@npm:5.0.9"
+  version: 5.0.12
+  resolution: "brace-expansion@npm:5.0.12"
   dependencies:
     balanced-match: "npm:^4.0.2"
-  checksum: 10/d8683d612919212c7cf298861acd1c15101e7e2ad186e7ae9747390e5b3fc9e9b55ce71107570d32985784d9d88fbbe438d725863aed7b0f3d08d5f080535eec
+  checksum: 10/65b550f1836e3b43f512f12afbc3be96616eee5c353e16d70181b7dffec8c08beabffb51d69a3bbdb27d675840725cbab025fda9d10716b5cda7dd864dc7bc4a
   languageName: node
   linkType: hard
 
@@ -1416,9 +1416,9 @@ __metadata:
   linkType: hard
 
 "content-type@npm:^3.0.0":
-  version: 3.1.0
-  resolution: "content-type@npm:3.1.0"
-  checksum: 10/ecca3f8210510aaac776133003cbdc52431add06b60b5ac8b02bfa8dc59eabc68d4d783eaf458e27898a4afb99e1cd536a8d8298909e05a031150b2aa474ca0f
+  version: 3.1.1
+  resolution: "content-type@npm:3.1.1"
+  checksum: 10/97d3f22c21475ab05ea3b4a46044d573d281db5706f6268b95adbccdf4d05ebcb34c9517a27e1e60588d04eaf43dc78e7a5ad8f2aae47241caf4fae2fa957eba
   languageName: node
   linkType: hard
 
@@ -1781,9 +1781,9 @@ __metadata:
   linkType: hard
 
 "fast-uri@npm:^3.0.1":
-  version: 3.1.7
-  resolution: "fast-uri@npm:3.1.7"
-  checksum: 10/6d62ea818841e1b460f60482fd31582faa23ea9d9b33f856412b24c42da11fd72bd003be6696390ec896dbe4e9e78d3bb8d93bf70a511c7f69e5e807ac9b284f
+  version: 3.1.8
+  resolution: "fast-uri@npm:3.1.8"
+  checksum: 10/d3dfa29fd2e5fa2371833699f3f78c975b79f65e52e0ce37604db10dffb85b5b448b5075e93453272cb95fb1c6a759495164e60649ffd69e59ec43f20d44f791
   languageName: node
   linkType: hard
 
@@ -1905,9 +1905,9 @@ __metadata:
   linkType: hard
 
 "get-east-asian-width@npm:^1.0.0, get-east-asian-width@npm:^1.3.1, get-east-asian-width@npm:^1.5.0":
-  version: 1.6.0
-  resolution: "get-east-asian-width@npm:1.6.0"
-  checksum: 10/3e5370b5df1f0020db711d8a3f9ee2cbfc9c7542daa99a699e9d7b9acf66e7868b89084741565a45d30d80afedf6e1218e0fb8bef7a583924a449c2816777380
+  version: 1.7.0
+  resolution: "get-east-asian-width@npm:1.7.0"
+  checksum: 10/8d8d96b54d1cfb6510f1b6dce51c4a6000b4d122757780d519d0147d968a6f5401421dbeff2e6bd3dc742e9b502fbcdbb98a50bf7f62730a6a8d6749a632279c
   languageName: node
   linkType: hard
 
@@ -2248,9 +2248,9 @@ __metadata:
   linkType: hard
 
 "ip-address@npm:^10.1.1":
-  version: 10.7.0
-  resolution: "ip-address@npm:10.7.0"
-  checksum: 10/81d954eb5806e82460cb749b9651a2040630cadf4db9d53abc13122e60e4ae6f9ae8555282386c63a11093dd6380a62f64f7a22aba18abc6109ff316a6660b0a
+  version: 10.7.2
+  resolution: "ip-address@npm:10.7.2"
+  checksum: 10/3a051cb5234cff142bb527e8b40bf0f9dd895b0334161b1ffe0256700a50a49f4d3b94ef72a809f086b2bd6489d4f7a4a52025b03db9c2e9e83a5f9e4d4bdb60
   languageName: node
   linkType: hard
 
@@ -2825,9 +2825,9 @@ __metadata:
   linkType: hard
 
 "lru-cache@npm:^11.0.0, lru-cache@npm:^11.1.0, lru-cache@npm:^11.2.1":
-  version: 11.5.2
-  resolution: "lru-cache@npm:11.5.2"
-  checksum: 10/122789c66605ddf29df58ff279e9e2c9499499d0b80b895ec524496f14bcde045d1582e3e38008f3457226d98067556719573b352119d6be8bdb1f8849f85681
+  version: 11.5.3
+  resolution: "lru-cache@npm:11.5.3"
+  checksum: 10/824394f43827de37e961e9e344d4f0d2afb0347106ddafae620d0035c36337bc64e64cddbc17f6c630a73c9db34cf3f81211e3d43699a32e9f3641f391415b82
   languageName: node
   linkType: hard
 
@@ -3707,11 +3707,11 @@ __metadata:
   linkType: hard
 
 "prettier@npm:^3.0.0":
-  version: 3.9.6
-  resolution: "prettier@npm:3.9.6"
+  version: 3.9.8
+  resolution: "prettier@npm:3.9.8"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 10/1dd1a1e0e40ec3b91cda9d294c4a95022aef61880ca3f441aad99b1252279f58a766c4cece81132c01550dcff1fd445efbd8812ea4a2374313e7fc6c8136f11f
+  checksum: 10/4ac262aaf9a5e221b02cc17447ebe7aa9689be59b85ab9de8152cd7422fb363ed3e09da6df585fa19ab1fc6cffebdc3ea34db1a75c978536aeba3f87bfd06ab3
   languageName: node
   linkType: hard
 
@@ -4175,9 +4175,9 @@ __metadata:
   linkType: hard
 
 "spdx-license-ids@npm:^3.0.0":
-  version: 3.0.23
-  resolution: "spdx-license-ids@npm:3.0.23"
-  checksum: 10/fead6be44478e4dd73a0721ae569f4a04f358846d8d82e8d92efae64aca928592e380cf17e8b84c25c948f3a7d8a0b4fc781a1830f3911ca87d52733265176b5
+  version: 3.0.24
+  resolution: "spdx-license-ids@npm:3.0.24"
+  checksum: 10/f8aaa5e869c9b4ad1bb4b3c1f1ef234bb10fda65e53879d918f3126710af1bd2df89cc4fe6400da90b3281317d909fd035e54e1c2bd4d1b10fb7ac1d30a420e7
   languageName: node
   linkType: hard
 
@@ -4547,11 +4547,11 @@ __metadata:
   linkType: hard
 
 "type-fest@npm:^5.2.0, type-fest@npm:^5.4.4":
-  version: 5.9.0
-  resolution: "type-fest@npm:5.9.0"
+  version: 5.10.0
+  resolution: "type-fest@npm:5.10.0"
   dependencies:
     tagged-tag: "npm:^1.0.0"
-  checksum: 10/915bee435848a8c36a01135afd239ca337df31f605da60684f053eb395846bfedd3d0c8cb6b00b14788814fb9c34ddb6e00ed1f6d06c4c2547f70475b76c1358
+  checksum: 10/299a575a3d2bbc74f70da508629c448806dd5c51cbd2c5adf05b1755636f9f3b12c803b2c52c0eac561d4472ddc5e8ab42b88954cb238b101c9d4595906aea7f
   languageName: node
   linkType: hard
 
@@ -4830,8 +4830,8 @@ __metadata:
   linkType: hard
 
 "yargs@npm:^18.0.0":
-  version: 18.1.0
-  resolution: "yargs@npm:18.1.0"
+  version: 18.2.0
+  resolution: "yargs@npm:18.2.0"
   dependencies:
     cliui: "npm:^9.0.1"
     escalade: "npm:^3.1.1"
@@ -4839,7 +4839,7 @@ __metadata:
     string-width: "npm:^8.2.1"
     y18n: "npm:^5.0.5"
     yargs-parser: "npm:^22.0.0"
-  checksum: 10/b26d477c3f62b0a031d8f3fea16325e286375e6039e5fca5efb1ec1d64eab3cfe136edb2887e4f2e2c9a5e004d0eca735079ea0be4ca34273c6e949639c6177b
+  checksum: 10/a780cc1fa693028baa50c0c88bcc2c59c92817f0f8e2dfbd226aa1c27cf0dbfb1743511012b73a4f415119d9caa22a6de19350c781d5ef75f874359ae7601ac3
   languageName: node
   linkType: hard
 
