@@ -445,11 +445,11 @@ __metadata:
   linkType: hard
 
 "@npmcli/promise-spawn@npm:^9.0.0, @npmcli/promise-spawn@npm:^9.0.1":
-  version: 9.0.1
-  resolution: "@npmcli/promise-spawn@npm:9.0.1"
+  version: 9.0.2
+  resolution: "@npmcli/promise-spawn@npm:9.0.2"
   dependencies:
     which: "npm:^6.0.0"
-  checksum: 10/93f539f12813dacf0084c5f444982d44c67f2016f417f2e937afb81c3fd228cf330abeabdffc95ca3e8315a4a9b9e732be7e7870c926d7dfc6c458549fcd11ea
+  checksum: 10/1314beb2dbf2439bf8ed96d7b21390a9fe7cdcc8b732106f9fee9ce5894680dac5f32292d2aa6cc70f77d0397b316c967e5b461d9bd382cb4b3f96ad37b86882
   languageName: node
   linkType: hard
 
@@ -890,11 +890,11 @@ __metadata:
   linkType: hard
 
 "@types/node@npm:*":
-  version: 26.6.5
-  resolution: "@types/node@npm:26.6.5"
+  version: 26.6.6
+  resolution: "@types/node@npm:26.6.6"
   dependencies:
     undici-types: "npm:~8.9.0"
-  checksum: 10/03780cc68280b566af47c0f673318e665258dbdcc953737a83c11593424d55aecb8b2642a573da33f76cb4dd5457379548388b78ab284cb3b762030e5d58b252
+  checksum: 10/07c6c6fc1f5cc89c700ac9ebcebd42b000fef234bf0b80e9461a8f077105f15faf16df95b83745e0c0e37338d1fbc28cb402ef27b5787fd7a57b492c926ff7ae
   languageName: node
   linkType: hard
 
@@ -970,7 +970,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-escapes@npm:^7.0.0":
+"ansi-escapes@npm:^7.0.0, ansi-escapes@npm:^7.3.0":
   version: 7.3.0
   resolution: "ansi-escapes@npm:7.3.0"
   dependencies:
@@ -986,10 +986,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-regex@npm:^6.1.0, ansi-regex@npm:^6.2.2":
-  version: 6.4.0
-  resolution: "ansi-regex@npm:6.4.0"
-  checksum: 10/8d0305a47218c994a15348d556d358c9a0b3a7abbd51be1c502447813839fb2b0f12700fca9e842acdd79e5740bb2a2d291880b4d770c1634068732a2a3091e5
+"ansi-regex@npm:^6.2.2, ansi-regex@npm:^6.4.0":
+  version: 6.5.0
+  resolution: "ansi-regex@npm:6.5.0"
+  checksum: 10/17e56f2faed4422292642414de88d693cbaf6cfea38479f4bd9ac6d382b0dadaa1d12857b018d3ea1a7f7a81848e3125960b11f5615137f4f01c3d5e3a0809d2
   languageName: node
   linkType: hard
 
@@ -1075,15 +1075,15 @@ __metadata:
   linkType: hard
 
 "bin-links@npm:^6.0.0":
-  version: 6.0.2
-  resolution: "bin-links@npm:6.0.2"
+  version: 6.0.3
+  resolution: "bin-links@npm:6.0.3"
   dependencies:
     cmd-shim: "npm:^8.0.0"
     npm-normalize-package-bin: "npm:^5.0.0"
     proc-log: "npm:^6.0.0"
     read-cmd-shim: "npm:^6.0.0"
     write-file-atomic: "npm:^7.0.0"
-  checksum: 10/8d28e74cb68a9ceeed83c4b039874e2754bd483cac410f2e3540fb4551009d4fcbe3528fa0ebfb8641db4afe3d7613dec715a3594984d3b722731015f2b5064c
+  checksum: 10/9007b1f7848161aa49d4fe1529131ee4d607241030da9ef2729342fc35f1743b6c131563d53564fbfbb636d9a9ddbd68cdd1c1fabc08c31960afc03613ac600e
   languageName: node
   linkType: hard
 
@@ -2232,9 +2232,9 @@ __metadata:
   linkType: hard
 
 "ip-address@npm:^10.1.1":
-  version: 10.7.4
-  resolution: "ip-address@npm:10.7.4"
-  checksum: 10/89375f1fa00e5bb4e724498886e06d870c1cc0abbfa9df8cb5ce80f3f179ee49feb0ca96ec54a1512c2303302719975a2ad96e3a8fcc13b4fd836d7f461d3d95
+  version: 10.7.5
+  resolution: "ip-address@npm:10.7.5"
+  checksum: 10/30e328a30851fa944260acd6a618c9a32e7a8f16ff033bab0e7da46beb8572fc9c77514a57e777ba9e0c4e571bab24842c10d2bab96b2856ab602e4ecdd669e1
   languageName: node
   linkType: hard
 
@@ -2847,19 +2847,19 @@ __metadata:
   linkType: hard
 
 "marked-terminal@npm:^7.3.0":
-  version: 7.3.0
-  resolution: "marked-terminal@npm:7.3.0"
+  version: 7.3.1
+  resolution: "marked-terminal@npm:7.3.1"
   dependencies:
-    ansi-escapes: "npm:^7.0.0"
-    ansi-regex: "npm:^6.1.0"
-    chalk: "npm:^5.4.1"
+    ansi-escapes: "npm:^7.3.0"
+    ansi-regex: "npm:^6.4.0"
+    chalk: "npm:^5.6.2"
     cli-highlight: "npm:^2.1.11"
     cli-table3: "npm:^0.6.5"
     node-emoji: "npm:^2.2.0"
-    supports-hyperlinks: "npm:^3.1.0"
+    supports-hyperlinks: "npm:^3.2.0"
   peerDependencies:
-    marked: ">=1 <16"
-  checksum: 10/1dfdfe752a4ebe6aec8de4a51180612a5f29982026b104a86215efb46b82b2a1942531a6bb840163c8d827e3eadc5cf93272e6eb29ec549f72b73b8b2eb97cfe
+    marked: ">=1 <19"
+  checksum: 10/a177c465082f9e735f687ffcfed706ebc7c9748d541478ed2f7a16ad27d8962865561e85c717102282707525d81f54c234d08c8261a8923b60a51abafde962d6
   languageName: node
   linkType: hard
 
@@ -2904,11 +2904,11 @@ __metadata:
   linkType: hard
 
 "mime@npm:^4.0.0":
-  version: 4.1.1
-  resolution: "mime@npm:4.1.1"
+  version: 4.1.2
+  resolution: "mime@npm:4.1.2"
   bin:
     mime: bin/cli.js
-  checksum: 10/6e323328f14c4a1fb25adc31699892768d193cf214ef07c7375de4100d26a4f2cda21e4b6385838b9c09a6865475832c5c3fcc7d8754988a6d5d791ade7c9c1e
+  checksum: 10/3241c974516fcbfe7a850635960841e9dd1920f6b131d829e82ec0a9cecb94327fa2913ddbc2b73ff430c7c1d738386036762a173488d809ba4d95dc11a9788f
   languageName: node
   linkType: hard
 
@@ -3479,8 +3479,8 @@ __metadata:
   linkType: hard
 
 "pacote@npm:^21.0.0, pacote@npm:^21.0.2, pacote@npm:^21.5.1":
-  version: 21.5.1
-  resolution: "pacote@npm:21.5.1"
+  version: 21.5.2
+  resolution: "pacote@npm:21.5.2"
   dependencies:
     "@gar/promise-retry": "npm:^1.0.0"
     "@npmcli/git": "npm:^7.0.0"
@@ -3501,7 +3501,7 @@ __metadata:
     tar: "npm:^7.4.3"
   bin:
     pacote: bin/index.js
-  checksum: 10/30054b7ea3d50943cf13804ff006ecda8ff2c1f9c22b3a5ee2c9b5170ac374052c3d6a70621219e3dcd69a728b795afe3677488e2d541dd9911be1b35e4d1f8e
+  checksum: 10/4fca543b5e6ef926b7bb6d60f0ff7705df334f94cecf4195b5770fadfacc67688501d3cb6d0c0eb14621359dd35a89c92d3e0edbf9b481169706fdac821670d9
   languageName: node
   linkType: hard
 
@@ -4337,7 +4337,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"supports-hyperlinks@npm:^3.1.0":
+"supports-hyperlinks@npm:^3.2.0":
   version: 3.2.0
   resolution: "supports-hyperlinks@npm:3.2.0"
   dependencies:
