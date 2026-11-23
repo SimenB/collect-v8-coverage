@@ -13,6 +13,10 @@ class CoverageInstrumenter {
   async startInstrumenting() {
     this.session.connect();
 
+    // Collect the previous test file's garbage first, or starting precise
+    // coverage holds it forever: https://github.com/nodejs/node/issues/44364
+    await this.postSession('HeapProfiler.collectGarbage');
+
     await this.postSession('Debugger.enable');
 
     await this.postSession('Profiler.enable');
